@@ -50,3 +50,6 @@ group :development do
   gem "web-console"
 end
 
+
+gem "graphql", "~> 2.3"
+gem "graphiql-rails", group: :development
